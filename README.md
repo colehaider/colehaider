@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @colehaider
+- 👀 I’m interested in the world of data.
+- 🌱 I’m currently learning how to advance my skills in SQL and R.
+- 💞️ I’m looking to collaborate on any projects involving SQL, R, Lua, or Python.
+- 📫 How to reach me: Email cole.haider22@gmail.com
